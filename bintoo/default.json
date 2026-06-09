@@ -1,14 +1,18 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0",
   "downloadUrl": "https://example.com/download",
   "releaseNote": {
-    "title": "Good aah version",
+    "title": "Init Release",
     "desc": ["Fixed Some Bugs", "fixed another bugs", "new feature"]
   },
   "notices": {
+    "2026-06-11": {
+      "title": "Join Our Community",
+      "desc": "Join our [discord server](https://discord.com/) or something"
+    },
     "2026-06-10": {
-      "title": "something",
-      "desc": "something desc"
+      "title": "A New Journey Begins",
+      "desc": "Thank You So Much for using bintoo :)"
     }
   }
 }
