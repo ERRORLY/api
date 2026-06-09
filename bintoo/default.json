@@ -1,7 +1,10 @@
 {
   "latestVersion": "1.0.0",
   "downloadUrl": "https://example.com/download",
-  "releaseNote": "Fixed Some Bugs",
+  "releaseNote": {
+    "title": "Good aah version",
+    "desc": ["Fixed Some Bugs", "fixed another bugs", "new feature"]
+  },
   "notices": {
     "2026-06-10": {
       "title": "something",
