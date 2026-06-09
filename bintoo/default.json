@@ -1,0 +1,11 @@
+{
+  "latestVersion": "1.0.0",
+  "downloadUrl": "https://example.com/download",
+  "releaseNote": "Fixed Some Bugs",
+  "notices": {
+    "2026-06-10": {
+      "title": "something",
+      "desc": "something desc"
+    }
+  }
+}
