@@ -1,0 +1,8 @@
+{
+  "latestVersion": "0.2",
+  "downloadUrl": "https://example.com/download",
+  "releaseNote": {
+    "title": "Rewritten Of Entire codebase from scratch",
+    "desc": ["New UI", "Better Security", "Better Support"]
+  }
+}

@@ -1,14 +1,18 @@
 {
-  "latestVersion": "1.0",
+  "latestVersion": "1.1",
   "downloadUrl": "https://example.com/download",
   "releaseNote": {
-    "title": "Init Release",
-    "desc": ["Fixed Some Bugs", "fixed another bugs", "new feature"]
+    "title": "v1.1 Has been release with playit integration",
+    "desc": ["Playit Integration", "fixed some bugs", "polish ui"]
   },
   "notices": {
+    "2026-06-28": {
+      "title": "Playit Integration is now available",
+      "desc": "Now you can go and play with your friend across the internet"
+    },
     "2026-06-11": {
       "title": "Join Our Community",
-      "desc": "Join our [discord server](https://discord.com/) or something"
+      "desc": "Join our [discord server](https://discord.com/)"
     },
     "2026-06-10": {
       "title": "A New Journey Begins",
