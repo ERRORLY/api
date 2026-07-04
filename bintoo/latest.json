@@ -4,8 +4,8 @@
   "pub_date": "2026-07-03T18:50:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "PASTE_THE_CONTENTS_OF_YOUR_.zip.sig_FILE_HERE",
-      "url": "https://github.com/<USERNAME>/<REPO>/releases/download/v1.0.1/YOUR_APP_UPDATE_FILE.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeTc2SXR0aU5JaXllWXJxUno1ckQwTk1VamdDY2NQbXZxdE9kSnJDYlp2TXhpM3N1ZzdCMmg2WlovellMVHh3YjB2MmZReVh5SGFyUzVRNTdKeGJLSFNBU0tTblVMa0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTc0NDk1CWZpbGU6QmludG9vXzEuMS4zX3g2NF9lbi1VUy5tc2kKbmFYeWlRNmMzWGVUMWpLTmRZcEFteXJjYk82NHlPc01tZ1lQVjNyL2R1Rk1HNjN1Q3dDZjEyUU1tOFBCUVNxYTdNNndlTm5rVGdGNllJQXhJYnRrQlE9PQo=",
+      "url": "https://github.com/ERRORLY/bintoo-archive/releases/download/v1.1.2/Bintoo_1.1.3_x64_en-US.msi"
     },
     "darwin-aarch64": {
       "signature": "PASTE_THE_CONTENTS_OF_YOUR_.tar.gz.sig_FILE_HERE",
