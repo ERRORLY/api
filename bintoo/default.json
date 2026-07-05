@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.1",
+  "latestVersion": "1.1.1",
   "downloadUrl": "https://bintoo.xyz",
   "releaseNote": {
-    "title": "v1.1 Has been release with playit integration",
-    "desc": ["Playit Integration", "fixed some bugs", "polish ui"]
+    "title": "Now have a startup window for Updater",
+    "desc": ["Have a Startup Window", "Auto Update Download"]
   },
   "notices": {
     "2026-06-28": {
