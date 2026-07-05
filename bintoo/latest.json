@@ -12,8 +12,8 @@
       "url": "https://github.com/<USERNAME>/<REPO>/releases/download/v1.0.1/YOUR_APP_UPDATE_FILE.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeTc2SXR0aU5JaTA2VzBxUFFKZzh0NFNtZ29OYVk5NzhReTVBOVhQSVkvUm5XN3RSeE1yZHdYSzgvMkFwRm1qQ3F5em16ZjhlSFY0TlVhSDlkc1BCQWdiTWJhNDJuT1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDg2MjMzCWZpbGU6QmludG9vXzEuMS4wX2FtZDY0LkFwcEltYWdlCnpNOUo1djhGeWRQRW1EUzJYSE5MUUNOc0lhdFVMeTF4MFBpNnNTbjUreE5ZYkFSR05XR1ZhZVZSVkh3WVVDNTM5OXBIcEhGYnRna2tNaGdhaCtaN0NBPT0K",
-      "url": "https://github.com/ERRORLY/bintoo-archive/releases/download/v1.1.2/Bintoo_1.1.2_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeTc2SXR0aU5JaTVvUUJ6Q3J1TG9QWDJORmZLazA0SUdlalp1cmVqWXZ0dU9haXJBV0ROMXA0NS9IR2FyYldLNXBPNEtPV3Y3THNuNllKN05wYnlJUWN3RVhWekpKWXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjU5OTgxCWZpbGU6QmludG9vXzEuMS4xX2FtZDY0LkFwcEltYWdlClp0NlFCeHc3MGw4UjZCYVBMZzhPditqWERWQzNQK0VER25GamozRHBOZEJDMG5SVzdWbTFEcWZvem9GTWVaOFJ6WXdqQ001WWVMOCs3WS9FakxxRkJBPT0K",
+      "url": "https://github.com/ERRORLY/bintoo-archive/releases/download/v1.1.1/Bintoo_1.1.1_amd64.AppImage"
     }
   }
 }
