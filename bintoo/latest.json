@@ -7,10 +7,6 @@
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeTc2SXR0aU5JaTcrYTlyejRQNWNJNGVjYXhMdzd4dGJDQUQzdjZHWHhvdkQxb2paOTNpeUo1dExzTDVsS09PYmFVVitVbUxFVCs3QjVjR2hEMmE2SEI3Nk5KZmhocGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzQ2OTc4CWZpbGU6QmludG9vXzEuMS4yX3g2NF9lbi1VUy5tc2kKUGFZNEEwbHlWYy85THI2ME5HdXMxVVBwMXJQdXJQK3VXWVlFRmhmclg1UWdWdWJFbkt0MFBQTGU0RjJJeVRBbWhaUjBpUUtzejgwWk1LczkvcitPQVE9PQo==",
       "url": "https://github.com/ERRORLY/bintoo-archive/releases/download/v1.1.2/Bintoo_1.1.2_x64_en-US.msi"
     },
-    "darwin-aarch64": {
-      "signature": "nothing",
-      "url": "nothing"
-    },
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeTc2SXR0aU5JaXlNQSttNmNqdXMzRnRCWmxKZ2c1b2RtaitWdEZ4b3RJbmtxOU1QZ2dvclUyWmpGTVV3K1ZvMk9Eb0pOT2xXZHZuQnFTZ0VENWZ3c1ZYL2NzRkFpalFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzI3MTk2CWZpbGU6QmludG9vXzEuMS4yX2FtZDY0LkFwcEltYWdlCmZad1ZXSWdVa3JKRWp3Q1p2cFJ6QS9DZmY3czZST3RYNVhjQ25rTWE1NWlOUS8yVStoUENmRVJZd25Wd055ZytjdG9CaDJIYXI1dEN1Y2N0ZkhiMEF3PT0K",
       "url": "https://github.com/ERRORLY/bintoo-archive/releases/download/v1.1.2/Bintoo_1.1.2_amd64.AppImage"
