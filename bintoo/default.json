@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.1.1",
+  "latestVersion": "1.1.2",
   "downloadUrl": "https://bintoo.xyz",
   "releaseNote": {
-    "title": "Now have a startup window for Updater",
+    "title": "Fixed Some Bugs",
     "desc": ["Have a Startup Window", "Auto Update Download"]
   },
   "notices": {
