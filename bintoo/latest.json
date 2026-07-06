@@ -4,8 +4,8 @@
   "pub_date": "2026-07-03T18:50:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeTc2SXR0aU5JaXduVWs2UHFnQTlCa2VJZjN2b0h6WHp1OGxkMGFKekN1cWR1UWtpczV0YlVRaU5NS2hPMXBCS1BqbVZ5aFBqcWM3Sk1NZXZsTkd0KzBlZm1rSXNUSlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTc4MDkzCWZpbGU6QmludG9vXzEuMS4xX3g2NF9lbi1VUy5tc2kKVFJUSkxHZWo0MUlWR0ZPV3F3aGRneXREY0dUZldGWnJpSDR1b0pwOHNXc29YMzN5cDcweGpQSXFuUUF2LzFKL2FoUXJJb1BtRm03T1RIc3dmTjF5Q3c9PQo=",
-      "url": "https://github.com/ERRORLY/bintoo-archive/releases/download/v1.1.1/Bintoo_1.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeTc2SXR0aU5JaTcrYTlyejRQNWNJNGVjYXhMdzd4dGJDQUQzdjZHWHhvdkQxb2paOTNpeUo1dExzTDVsS09PYmFVVitVbUxFVCs3QjVjR2hEMmE2SEI3Nk5KZmhocGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzQ2OTc4CWZpbGU6QmludG9vXzEuMS4yX3g2NF9lbi1VUy5tc2kKUGFZNEEwbHlWYy85THI2ME5HdXMxVVBwMXJQdXJQK3VXWVlFRmhmclg1UWdWdWJFbkt0MFBQTGU0RjJJeVRBbWhaUjBpUUtzejgwWk1LczkvcitPQVE9PQo==",
+      "url": "https://github.com/ERRORLY/bintoo-archive/releases/download/v1.1.2/Bintoo_1.1.2_x64_en-US.msi"
     },
     "darwin-aarch64": {
       "signature": "PASTE_THE_CONTENTS_OF_YOUR_.tar.gz.sig_FILE_HERE",
